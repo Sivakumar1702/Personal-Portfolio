@@ -1742,8 +1742,3 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
-img.demo-image {
-  width: 50px;
-  height: 50;
-  border-radius: 16px;
-}
